@@ -615,7 +615,7 @@ export default function Home() {
               <Coffee className="w-5 h-5" />
               <span>Buy Me a Coffee ☕</span>
             </motion.button>
-            <p className="text-gray-600 dark:text-gray-400 transition-colors duration-300 text-xs sm:text-sm">&copy; 2025 College Reclaim. Made with ❤️ by Surya.</p>
+            <p className="text-gray-600 dark:text-gray-400 transition-colors duration-300 text-xs sm:text-sm">&copy; 2025 College Reclaim. Made with ❤️ by Sagar.</p>
           </motion.div>
         </div>
       </footer>

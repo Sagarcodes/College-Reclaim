@@ -88,7 +88,7 @@ export function Footer() {
             <span>Support the Developer ☕</span>
           </button>
 
-          <p className="text-gray-600 dark:text-gray-400 transition-colors duration-300">&copy; 2025 College Reclaim. Made with ❤️ by Surya.</p>
+          <p className="text-gray-600 dark:text-gray-400 transition-colors duration-300">&copy; 2025 College Reclaim. Made with ❤️ by Sagar.</p>
         </div>
       </div>
 
