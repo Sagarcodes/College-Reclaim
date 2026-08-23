@@ -4,6 +4,12 @@ College ReClaim is a comprehensive web application designed to simplify lost and
 
 ## Features
 
+## 🎥 Project Demo
+
+Watch the complete working demonstration of College ReClaim:
+
+▶️ [Watch College ReClaim Demo](https://youtu.be/QHBrGMrYVBQ)
+
 ### Core Functionality
 
 - **Lost & Found System** - Report and search for lost/found items with detailed descriptions and images
